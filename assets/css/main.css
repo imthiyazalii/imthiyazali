@@ -25,6 +25,8 @@
 
 
 
+
+
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
@@ -361,7 +363,7 @@ h6 {
 }
 
 .navmenu .dropdown ul ul {
-  background-color: rgba(33, 37, 41, 0.1);
+  background-color: rgba(91, 155, 219, 0.1);
 }
 
 .navmenu .dropdown>.dropdown-active {
@@ -552,7 +554,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: 100vh;
+  min-height: 80vh;
   position: relative;
   padding: 80px 0;
   display: flex;
